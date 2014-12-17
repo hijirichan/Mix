@@ -8,8 +8,8 @@ Mix! is a simple mail client application.
 2005年から開発開始したAkane Mailをベースに新規開発するメールアプリケーションです。  
 ユーザフレンドリーな3ペイン型で、シンプルかつどこにでも持って行けることを目標としています。  
 
-C#4.5(Visual Studio2013)で開発を行い、Visual Studio2015リリース後はLinuxやMacOSXでも利用できるよう  
-C#5.0に移行しマルチプラットフォーム化を検討しています。
+C#4.5(Visual Studio2013)で開発を行い、Visual Studio2015リリース後はLinuxやMacOSXでも  
+利用できるようC#5.0に移行しマルチプラットフォーム化を検討しています。
 
 ○初期実装機能
 
